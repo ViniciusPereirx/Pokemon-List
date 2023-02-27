@@ -28,6 +28,6 @@ $ git clone https://github.com/ViniciusPereirx/Pokemon-List.git
 
 ##
 
-Deploy Vercel: <a>https://pokemon-list-6mjspre3x-viniciuspereirx.vercel.app/</a>
+Deploy Vercel: <a>https://pokemon-list-viniciuspereirx.vercel.app/</a>
 
 ##
